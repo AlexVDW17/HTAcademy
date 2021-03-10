@@ -11,28 +11,33 @@ namespace SortingAlgorithms
             Console.WriteLine("QuickSort Example");
             Quick.Sort(arr, 0, 3);
             Program.PrintArr(arr);
+            Console.WriteLine();
 
             arr = getArr();
             Console.WriteLine("Insertion Sort Example");
             Insertion.Sort(arr);
             Program.PrintArr(arr);
+            Console.WriteLine();
 
             arr = getArr();
             Console.WriteLine("Bubble Sort Example");
             Bubble.Sort(arr);
             Program.PrintArr(arr);
+            Console.WriteLine();
 
             arr = getArr();
             Console.WriteLine("Selection Sort Example");
-            Selection.Sort(arr);
+            Selection.Sort(arr); 
             Program.PrintArr(arr);
+            Console.WriteLine();
 
             Console.WriteLine("Binary Search Example: search for 30 in the sorted list");
             Console.WriteLine("Position: " + Binary.Search(arr, 30, 0, 3));
+            Console.WriteLine();
 
             Console.WriteLine("Linear Search Example: search for 30 in a random list");
             Console.WriteLine("Position: " + Binary.Search(getArr(), 30, 0, 3));
-
+            Console.WriteLine();
 
         }
 
