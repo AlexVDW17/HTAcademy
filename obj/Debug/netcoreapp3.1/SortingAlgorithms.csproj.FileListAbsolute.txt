@@ -11,3 +11,17 @@ C:\Users\Alex\source\repos\SortingAlgorithms\bin\Debug\netcoreapp3.1\SortingAlgo
 C:\Users\Alex\source\repos\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.dll
 C:\Users\Alex\source\repos\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.pdb
 C:\Users\Alex\source\repos\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.genruntimeconfig.cache
+D:\Programming\Practice\W2022\HTAcademy\bin\Debug\netcoreapp3.1\SortingAlgorithms.exe
+D:\Programming\Practice\W2022\HTAcademy\bin\Debug\netcoreapp3.1\SortingAlgorithms.deps.json
+D:\Programming\Practice\W2022\HTAcademy\bin\Debug\netcoreapp3.1\SortingAlgorithms.runtimeconfig.json
+D:\Programming\Practice\W2022\HTAcademy\bin\Debug\netcoreapp3.1\SortingAlgorithms.runtimeconfig.dev.json
+D:\Programming\Practice\W2022\HTAcademy\bin\Debug\netcoreapp3.1\SortingAlgorithms.dll
+D:\Programming\Practice\W2022\HTAcademy\bin\Debug\netcoreapp3.1\SortingAlgorithms.pdb
+D:\Programming\Practice\W2022\HTAcademy\obj\Debug\netcoreapp3.1\SortingAlgorithms.csproj.AssemblyReference.cache
+D:\Programming\Practice\W2022\HTAcademy\obj\Debug\netcoreapp3.1\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Practice\W2022\HTAcademy\obj\Debug\netcoreapp3.1\SortingAlgorithms.AssemblyInfoInputs.cache
+D:\Programming\Practice\W2022\HTAcademy\obj\Debug\netcoreapp3.1\SortingAlgorithms.AssemblyInfo.cs
+D:\Programming\Practice\W2022\HTAcademy\obj\Debug\netcoreapp3.1\SortingAlgorithms.csproj.CoreCompileInputs.cache
+D:\Programming\Practice\W2022\HTAcademy\obj\Debug\netcoreapp3.1\SortingAlgorithms.dll
+D:\Programming\Practice\W2022\HTAcademy\obj\Debug\netcoreapp3.1\SortingAlgorithms.pdb
+D:\Programming\Practice\W2022\HTAcademy\obj\Debug\netcoreapp3.1\SortingAlgorithms.genruntimeconfig.cache

@@ -14,7 +14,6 @@ namespace SortingAlgorithms.Algorithms
         /// <param name="arr"></param>
         public static void Sort(int[] arr)
         {
-            int index = 0;
             for (int i = 0; i < arr.Length; i++)
             {
                 int indexOfLowest = i;
